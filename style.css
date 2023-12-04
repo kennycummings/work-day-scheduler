@@ -58,19 +58,16 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
-/* Add a style for the current day header */
 #currentDay {
   font-size: 24px;
   font-weight: bold;
 }
 
-/* Add a style for the current time header */
 #currentTime {
   font-size: 24px;
   font-weight: bold;
 }
 
-/* Add a hover effect for the save button */
 .saveBtn:hover {
   background-color: #005a8d;
 }

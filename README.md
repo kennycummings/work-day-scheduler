@@ -16,3 +16,16 @@ Each time block is dynamically styled and colored based on whether it is in the 
 
 ## User Input Saving
 The app saves the user input in local storage. The saved tasks remain even when the page is refreshed.
+
+## Web Application URL
+https://kennycummings.github.io/work-day-scheduler/
+
+## Screenshots
+
+Screenshots of Application:
+<br>
+<br>
+![Homepage](./Assets/screenshot-1.png)
+<br>
+<br>
+![Saved in Local Storage](./Assets/screenshot-2.png)
